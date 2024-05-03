@@ -6,7 +6,14 @@
 
 ## 这是什么？  
 - 这个是一个 [OpenBmclApi](https://github.com/bangbang93/openbmclapi) 群友自发创建的收集 [bangbang93](https://github.com/bangbang93) 和群里其他人的一些言论/表情包的存放仓库，以方便查看~~黑历史~~
-
+  
+## 随机图片api
+- 可以方便，快速的随机查看本仓库的图片
+- ```
+  https://apis.bmclapi.online/93/random
+- 或者使用另外一个链接
+- ```
+  https://api.bangbang93.top/api/link
 ## 如何贡献本项目
 本项目欢迎提交pr！如果提交pr的话，请按照以下规范提交:
 - 如果是 [bangbang93](https://github.com/bangbang93) 的言论/表情包的话，请直接提交到仓库根目录，如果是其他人的言论/表情包的话，请创建一个文件夹，如 **“/8Mi_Yile”**
