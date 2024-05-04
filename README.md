@@ -23,7 +23,7 @@
 ### 随机图片API
 - 可以方便，快速的随机查看本仓库的图片
 ```
-https://apis.bmclapi.online/93/random
+https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
 ```
 
