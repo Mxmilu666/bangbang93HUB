@@ -1,0 +1,11 @@
+name: UpdateCache
+on:
+  push:
+    branches: [ main ] # 触发分支，根据需要可更改为'master'或其他分支
+jobs:
+  notify:
+    runs-on: ubuntu-latest # 使用Ubuntu环境执行
+    steps:
+    - name: UpdateCache
+      run: |
+        curl https://apis.bmclapi.online/api/93/refreshcache
