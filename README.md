@@ -26,7 +26,7 @@
 https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
 ```
-####第三方固定图片API
+###第三方固定图片API
 - 为国内用户加速
   ```
   https://API.minecsms.xyz/API/93HUB
