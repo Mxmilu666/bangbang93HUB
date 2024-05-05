@@ -26,11 +26,12 @@
 https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
 ```
-###第三方固定图片API
-- 为国内用户加速
-  ```
-  https://API.minecsms.xyz/API/93HUB
-  ```
+
+### 第三方固定图片API
+- 为国内用户加速（虽然速度比上面两个都慢）
+```
+https://api.minecsms.xyz/API/93HUB
+```
 
 ## 感谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
