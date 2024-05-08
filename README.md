@@ -26,9 +26,13 @@
 https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
 ```
+## 第三方镜像
+```
+https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
+https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
+```
 
 ## 感谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
-
 
 ![bangbang93](./我去停了个车_你们怎么开始打黑枪了.jpg)
