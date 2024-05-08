@@ -18,7 +18,7 @@
 
 ## 我可以做些什么？  
 - 你可以随意的去群里发布这些表情包  
-- 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 抄家~~
+- 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
  
 ## API
 
