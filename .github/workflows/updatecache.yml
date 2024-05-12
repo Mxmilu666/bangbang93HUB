@@ -9,3 +9,4 @@ jobs:
     - name: UpdateCache
       run: |
         curl https://apis.bmclapi.online/api/93/refreshcache
+        curl http://ttb-network.top:8800/mirrors/bangbang93hub/refresh
