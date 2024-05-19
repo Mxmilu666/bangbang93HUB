@@ -37,6 +37,8 @@ http://ttb-network.top:8800/mirrors/bangbang93hub/random
 https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 ```
+## 大病随机网站（由cooollawf贡献）
+https://bmclemoji.pages.dev/htmlpage_1716029370/
 
 ## 感谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
