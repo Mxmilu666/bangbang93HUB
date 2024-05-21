@@ -34,6 +34,7 @@ https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
 ```
 - ~~不安全地~~随机查看本仓库的图片 :)
+- ~~安全地~~随机查看本仓库的图片 ^^ -- by TTB-Network
 ```
 http://ttb-network.top:8800/mirrors/bangbang93hub/random
 ```
