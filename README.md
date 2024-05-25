@@ -48,6 +48,7 @@ https://apis.bmclapi.online/api/93/file?name=文件名
 ```
 https://bmclemoji.pages.dev/htmlpage_1716029370/
 ```
+
 ## 感谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
