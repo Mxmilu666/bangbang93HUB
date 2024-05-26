@@ -6,7 +6,25 @@ jobs:
   notify:
     runs-on: ubuntu-latest # 使用Ubuntu环境执行
     steps:
-    - name: UpdateCache
+    - name: Check pushed files  
+      id: check_files  
+      shell: bash  
+      run: |     
+        shopt -s nocasematch  
+        supported_extensions=(".png" ".jpg" ".jpeg" ".gif")  
+        changed_files=$(git diff-tree --no-commit-id --name-only -r $GITHUB_SHA)  
+        for file in $changed_files; do  
+          for extension in "${supported_extensions[@]}"; do  
+            if [[ $file == *"$extension" ]]; then  
+              echo "File $file matches a supported extension"  
+              echo "::set-output name=has_supported_file::true"  
+              break 2 
+            fi  
+          done  
+        done   
+        shopt -u nocasematch
+    - name: Check Support Update Cache
+      if: steps.check_files.outputs.has_supported_file == 'true' 
       run: |
         curl https://apis.bmclapi.online/api/93/refreshcache
-        curl http://ttb-network.top:8800/mirrors/bangbang93hub/refresh
+        curl https://ttb-network.top:8800/mirrors/bangbang93hub/refresh
