@@ -6,6 +6,7 @@ jobs:
   notify:
     runs-on: ubuntu-latest # 使用Ubuntu环境执行
     steps:
-    - name: UpdateCache
+    - name: Update Cache
       run: |
         curl https://apis.bmclapi.online/api/93/refreshcache
+        curl http://ttb-network.top:8800/mirrors/bangbang93hub/refresh
