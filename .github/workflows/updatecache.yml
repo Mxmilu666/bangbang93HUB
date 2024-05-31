@@ -6,7 +6,19 @@ jobs:
   notify:
     runs-on: ubuntu-latest # 使用Ubuntu环境执行
     steps:
-    - name: Update Cache
-      run: |
-        curl https://apis.bmclapi.online/api/93/refreshcache
-        curl http://ttb-network.top:8800/mirrors/bangbang93hub/refresh
+        - name: install wget
+          run: |
+            sudo apt-get update
+            sudo apt-get install -y wget
+        - name: Set up Python 
+          uses: actions/setup-python@v2
+          with:
+            python-version: 3.9.1
+        - name: install requests
+          run: |
+            python -m pip install --upgrade pip
+            python -m pip install requests
+        - name: referesh cache
+          run: |
+            wget https://f005.backblazeb2.com/file/tinyst-bucket/app.py
+            python3 ./app.py 
