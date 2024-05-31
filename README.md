@@ -48,14 +48,16 @@ https://apis.bmclapi.online/api/93/file?name=文件名
 ```
 https://bmclemoji.pages.dev/htmlpage_1716029370/
 ```
-### 图片列表api
+### 图片列表 API
 - 可以方便，快速的查看所有图片列表
 ```
 https://ttb-network.top:8800/mirrors/bangbang93hub/filelist
 ```
-
-## 感谢
+## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
 ![bangbang93](./我去停了个车_你们怎么开始打黑枪了.jpg)
 ~~来自93的认可(bushi)~~
+
+## 贡献者
+![贡献者名单（甲级战犯）](https://contrib.rocks/image?repo=Mxmilu666/bangbang93HUB)
