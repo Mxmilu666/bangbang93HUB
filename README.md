@@ -59,5 +59,8 @@ https://ttb-network.top:8800/mirrors/bangbang93hub/filelist
 ![bangbang93](./我去停了个车_你们怎么开始打黑枪了.jpg)
 ~~来自93的认可(bushi)~~
 
+## 甲级战犯名单
+![逆天名单](https://contrib.rocks/image?repo=8Mi-Tech/.github)
+
 ## 战犯名单
-![贡献者名单（甲级战犯）](https://contrib.rocks/image?repo=Mxmilu666/bangbang93HUB)
+![贡献者名单](https://contrib.rocks/image?repo=Mxmilu666/bangbang93HUB)
