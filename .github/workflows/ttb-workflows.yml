@@ -1,0 +1,36 @@
+name: 'Update TTB-Network'  
+  
+on:   
+  push:   
+    branches: [ main ]  
+  pull_request:  
+    branches: [ '**' ]
+  
+jobs:
+  push:
+    runs-on: ubuntu-latest  
+    if: github.event_name == 'push'
+    steps:  
+      - name: Trigger server refresh
+        uses: tyrrrz/action-http-request@master
+        with:
+          url: https://bangbang93.ttb-network.top:4000/refresh
+      - name: Response
+        run: |
+          echo "Status: ${{ steps.request.outputs.status }}"
+          echo "Body: ${{ steps.request.outputs.body }}"
+
+  pull_request:
+    runs-on: ubuntu-latest  
+    if: github.event_name == 'pull_request'
+    steps:  
+      - name: Trigger server pr notice
+        uses: tyrrrz/action-http-request@master
+        with:
+          url: https://bangbang93.ttb-network.top:4000/github/pulls
+          headers:
+            Authorization: Bearer ${{secrets.BANGBANG93_PR_TOKEN}}
+      - name: Response
+        run: |
+          echo "Status: ${{ steps.request.outputs.status }}"
+          echo "Body: ${{ steps.request.outputs.body }}"
