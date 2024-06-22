@@ -32,6 +32,7 @@
 ```
 https://apis.bmclapi.online/api/93/random
 https://api.bangbang93.top/api/link
+https://bangbang93.ttb-network.top:4000/random
 ```
 - ~~不安全地~~随机查看本仓库的图片 :)
 - ~~安全地~~随机查看本仓库的图片 ^^ -- by TTB-Network
@@ -43,6 +44,7 @@ https://ttb-network.top:8800/mirrors/bangbang93hub/random
 https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 https://apis.bmclapi.online/api/93/file?name=文件名
+https://bangbang93.ttb-network.top:4000/files
 ```
 ## 第三方整活网站
 ```
@@ -51,7 +53,7 @@ https://bmclemoji.pages.dev/htmlpage_1716029370/
 ### 图片列表 API
 - 可以方便，快速的查看所有图片列表
 ```
-https://ttb-network.top:8800/mirrors/bangbang93hub/filelist
+https://bangbang93.ttb-network.top:4000/filelist
 ```
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
