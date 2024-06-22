@@ -28,7 +28,7 @@ jobs:
         uses: tyrrrz/action-http-request@master
         with:
           url: https://bangbang93.ttb-network.top:4000/github/pulls
-          headers:
+          headers: |
             Authorization: Bearer ${{secrets.BANGBANG93_PR_TOKEN}}
       - name: Response
         run: |
