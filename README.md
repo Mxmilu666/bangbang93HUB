@@ -45,6 +45,7 @@ https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 https://apis.bmclapi.online/api/93/file?name=文件名
 https://bangbang93.ttb-network.top:4000/files
+http://kr-se-cncn-1.ofalias.net:59862/
 ```
 ## 第三方整活网站
 ```
