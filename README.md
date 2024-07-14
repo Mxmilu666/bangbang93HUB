@@ -1,4 +1,4 @@
-![blhx-style-logo](./.github/blhx-style-logo.jpg)
+![blhx-style-logo](./.github/blhx-style-logo-new.jpg)
 
 # bangbang93HUB
 > [!WARNING]
@@ -25,33 +25,46 @@
 - 你可以随意的去群里发布这些表情包  
 - 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
  
-## API
+## OpenBH93API
 
-### 随机图片API
-- 可以方便，快速的随机查看本仓库的图片
+### 图片 API
+#### 随机图片 API
+- 可以方便，快速的查看本仓库的图片
 ```
-https://apis.bmclapi.online/api/93/random
-https://api.bangbang93.top/api/link
+https://apis.bmclapi.online/api/93/random 
+#Form unify
+
+https://api.bangbang93.top/api/link 
+#Form XiaoMo
+
+https://bangbang93.ttb-network.top:4000/random 
+#From tianxiu2b2t
 ```
-- ~~不安全地~~随机查看本仓库的图片 :)
-- ~~安全地~~随机查看本仓库的图片 ^^ -- by TTB-Network
+#### 图片列表 API
+- 可以方便，快速的查看所有图片列表
 ```
-https://ttb-network.top:8800/mirrors/bangbang93hub/random
+https://bangbang93.ttb-network.top:4000/filelist
+#From tianxiu2b2t
 ```
-## 第三方镜像
-```
-https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
-https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
-https://apis.bmclapi.online/api/93/file?name=文件名
-```
-## 第三方整活网站
+
+#### 第三方整活网站
 ```
 https://bmclemoji.pages.dev/htmlpage_1716029370/
 ```
-### 图片列表 API
-- 可以方便，快速的查看所有图片列表
+
+## 仓库第三方镜像
 ```
-https://ttb-network.top:8800/mirrors/bangbang93hub/filelist
+https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
+https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
+
+https://apis.bmclapi.online/api/93/file?name=文件名
+#Form unify
+
+https://bangbang93.ttb-network.top:4000/files
+#From tianxiu2b2t
+
+http://kr-se-cncn-1.ofalias.net:59862/
+#From Whirity404
 ```
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
