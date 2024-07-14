@@ -1,0 +1,28 @@
+name: saltwood-wf
+
+on:
+  push:
+    branches: [ main ] # 触发分支
+
+jobs:
+  updatecache:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: updatecache
+      env:
+        TOKEN: ${{ secrets.MY_TOKEN_SECRET }}
+      run: |
+        # 构建 URL
+        URL="http://saltwood.top:9393/93AtHome/update_files?token=$TOKEN"
+        
+        # 使用 curl 发送
+        RESPONSE_CODE=$(curl -s -o /dev/null -w "%{http_code}\n" $URL)
+        
+        # 检查状态码
+        if [ "$RESPONSE_CODE" -eq 204 ]; then
+          echo "╰(*°▽°*)╯ All OK!"
+        else
+          echo "(┬┬﹏┬┬) Unexpected response code: $RESPONSE_CODE"
+          exit 1
+        fi
