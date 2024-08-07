@@ -67,6 +67,12 @@ http://kr-se-cncn-1.ofalias.net:59862/
 #From Whirity404
 ```
 
+
+#### 第三方整活app
+```
+https://github.com/Whirity404/BangBang93Droid
+```
+
 ## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome)(快去 Star ！)
 ```
 http://saltwood.top:9393/文件名
