@@ -78,6 +78,11 @@ https://github.com/Whirity404/BangBang93Droid
 http://saltwood.top:9393/文件名
 ```
 
+## [iodine@home](https://github.com/Zero-Octagon/iodine-at-home)(即将发布)
+```
+http://zerowolf.top:93/files/bangbang93HUB/文件名
+```
+
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
