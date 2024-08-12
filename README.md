@@ -57,9 +57,9 @@ https://github.com/Whirity404/BangBang93Droid
 http://saltwood.top:9393/文件名
 ```
 
-## [iodine@home](https://github.com/Zero-Octagon/iodine-at-home)(点点 Star 谢谢)
+## [iodine@home](https://github.com/ZeroNexis/iodine-at-home)（点点 Star 谢谢喵~）
 ```
-http://zerowolf.top:93/files/bangbang93HUB/文件名
+https://iodine.zeronexis.cn:93/files/bangbang93HUB/文件名
 ```
 
 ## 特别鸣谢
