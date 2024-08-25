@@ -52,9 +52,9 @@ https://apis.bmclapi.online/api/93/file?name=文件名
 https://github.com/Whirity404/BangBang93Droid
 ```
 
-## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome)(快去 Star ！)
+## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star ！)
 ```
-http://saltwood.top:9393/文件名
+https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
 
 ## [iodine@home](https://github.com/ZeroNexis/iodine-at-home)（点点 Star 谢谢喵~）
