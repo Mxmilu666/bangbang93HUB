@@ -14,7 +14,7 @@ jobs:
         TOKEN: ${{ secrets.SALTWOOD_SECRET }}
       run: |
         # 构建 URL
-        URL="http://saltwood.top:9393/93AtHome/update_files?token=$TOKEN"
+        URL="https://saltwood.top:9393/93AtHome/update_files?token=$TOKEN"
         
         # 使用 curl 发送
         RESPONSE_CODE=$(curl -s -o /dev/null -w "%{http_code}\n" $URL)

@@ -20,6 +20,7 @@
 - 图片的命名请不要使用杂乱的名称，如 "QQ图片1145141919810"
 - 提交的图片请参考："**[回复(回复的人)-回复的内容]\_消息1\_消息2\_[图片的描述(图片中的内容)]**"
 - 若无法形容，请保持一个特别的文件名，或是一段用书名号包裹的简短的概括，如 **“ 《token宝宝》 ”**
+- 如果 PR 数大于 3 ，可以开 issue 要贡献者权限
 
 ## 我可以做些什么？  
 - 你可以随意的去群里发布这些表情包  
@@ -34,22 +35,6 @@
 https://apis.bmclapi.online/api/93/random 
 #Form unify
 
-https://api.bangbang93.top/api/link 
-#Form XiaoMo
-
-https://bangbang93.ttb-network.top:4000/random 
-#From tianxiu2b2t
-```
-#### 图片列表 API
-- 可以方便，快速的查看所有图片列表
-```
-https://bangbang93.ttb-network.top:4000/filelist
-#From tianxiu2b2t
-```
-
-#### 第三方整活网站
-```
-https://bmclemoji.pages.dev/htmlpage_1716029370/
 ```
 
 ## 仓库第三方镜像
@@ -60,27 +45,21 @@ https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 https://apis.bmclapi.online/api/93/file?name=文件名
 #Form unify
 
-https://bangbang93.ttb-network.top:4000/files
-#From tianxiu2b2t
-
-http://kr-se-cncn-1.ofalias.net:59862/
-#From Whirity404
 ```
 
-
-#### 第三方整活app
+#### 第三方整活 APP
 ```
 https://github.com/Whirity404/BangBang93Droid
 ```
 
-## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome)(快去 Star ！)
+## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star ！)
 ```
-http://saltwood.top:9393/文件名
+https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
 
-## [iodine@home](https://github.com/Zero-Octagon/iodine-at-home)(即将发布)
+## [iodine@home](https://github.com/ZeroNexis/iodine-at-home)（点点 Star 谢谢喵~）
 ```
-http://zerowolf.top:93/files/bangbang93HUB/文件名
+https://iodine.zeronexis.cn:93/files/bangbang93HUB/文件名
 ```
 
 ## 特别鸣谢
