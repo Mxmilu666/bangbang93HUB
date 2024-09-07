@@ -34,7 +34,6 @@
 ```
 https://apis.bmclapi.online/api/93/random 
 #Form unify
-
 ```
 
 ## 仓库第三方镜像
@@ -44,7 +43,6 @@ https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 
 https://apis.bmclapi.online/api/93/file?name=文件名
 #Form unify
-
 ```
 
 #### 第三方整活 APP
@@ -55,11 +53,6 @@ https://github.com/Whirity404/BangBang93Droid
 ## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star ！)
 ```
 https://saltwood.top:9393/files/bangbang93Hub/文件名
-```
-
-## [iodine@home](https://github.com/ZeroNexis/iodine-at-home)（点点 Star 谢谢喵~）
-```
-https://iodine.zeronexis.cn:93/files/bangbang93HUB/文件名
 ```
 
 ## 特别鸣谢
