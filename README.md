@@ -24,7 +24,7 @@
 
 ## 我可以做些什么？  
 - 你可以随意的去群里发布这些表情包  
-- 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
+- 你可以给 [bangbang93](https://afdian.com/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
  
 ## OpenBH93API
 
@@ -43,6 +43,11 @@ https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 
 https://apis.bmclapi.online/api/93/file?name=文件名
 #Form unify
+
+https://bangbang93hub.yourfamilyisintheworld.top:8443/
+
+#From Whirity404
+
 ```
 
 #### 第三方整活 APP
