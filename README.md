@@ -26,7 +26,7 @@
 - 你可以随意的去群里发布这些表情包  
 - 你可以给 [bangbang93](https://afdian.net/@bangbang93) 打钱，以确保我~~不会被 bangbang93 Gank~~
  
-## OpenBH93API
+<!-- ## OpenBH93API
 
 ### 图片 API
 #### 随机图片 API
@@ -34,15 +34,12 @@
 ```
 https://apis.bmclapi.online/api/93/random 
 #Form unify
-```
+``` -->
 
 ## 仓库第三方镜像
 ```
 https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
-
-https://apis.bmclapi.online/api/93/file?name=文件名
-#Form unify
 ```
 
 #### 第三方整活 APP
@@ -50,7 +47,7 @@ https://apis.bmclapi.online/api/93/file?name=文件名
 https://github.com/Whirity404/BangBang93Droid
 ```
 
-## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star ！)
+## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star!) (不可用状态)
 ```
 https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
