@@ -60,6 +60,6 @@ https://saltwood.top:9393/files/bangbang93Hub/文件名
 
 ## 甲级战犯名单
 [![逆天名单](https://contrib.rocks/image?repo=8Mi-Tech/.github)](https://github.com/Mxmilu666/bangbang93HUB/blob/main/0-%E5%A4%9A%E4%BA%BA%E8%BF%90%E5%8A%A8/%E3%80%8A%E6%80%BB%E7%BB%93%EF%BC%8C%E4%BB%A5%E5%8B%92%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9%E3%80%8B.png)
-
+![cooollawf](https://contrib.rocks/image?repo=cooollawf/OpenBMCLAPI-BABY)
 ## 战犯名单
 ![贡献者名单](https://contrib.rocks/image?repo=Mxmilu666/bangbang93HUB)
