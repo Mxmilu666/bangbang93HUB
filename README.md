@@ -46,6 +46,13 @@ https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
 
+## 仓库手机app
+```
+#From Whirity404
+目前只能查看但不能修改
+https://github.com/Whirity404/bm93Droid/
+
+```
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
