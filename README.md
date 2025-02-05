@@ -32,19 +32,13 @@
 #### 随机图片 API
 - 可以方便，快速的查看本仓库的图片
 ```
-https://apis.bmclapi.online/api/93/random 
-#Form unify
+目前全部寄了
 ``` -->
 
 ## 仓库第三方镜像
 ```
 https://jsd.onmicrosoft.cn/gh/Mxmilu666/bangbang93HUB/
 https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
-```
-
-#### 第三方整活 APP
-```
-https://github.com/Whirity404/BangBang93Droid
 ```
 
 ## [Open93AtHome](https://github.com/SaltWood-Studio/Open93AtHome-V3)(快去 Star!) (不可用状态)
@@ -60,6 +54,5 @@ https://saltwood.top:9393/files/bangbang93Hub/文件名
 
 ## 甲级战犯名单
 [![逆天名单](https://contrib.rocks/image?repo=8Mi-Tech/.github)](https://github.com/Mxmilu666/bangbang93HUB/blob/main/0-%E5%A4%9A%E4%BA%BA%E8%BF%90%E5%8A%A8/%E3%80%8A%E6%80%BB%E7%BB%93%EF%BC%8C%E4%BB%A5%E5%8B%92%E6%9B%B4%E8%83%9C%E4%B8%80%E7%AD%B9%E3%80%8B.png)
-![cooollawf](https://contrib.rocks/image?repo=cooollawf/OpenBMCLAPI-BABY)
 ## 战犯名单
 ![贡献者名单](https://contrib.rocks/image?repo=Mxmilu666/bangbang93HUB)
