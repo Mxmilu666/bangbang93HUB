@@ -1,6 +1,6 @@
 ![blhx-style-logo](./.github/blhx-style-logo-new.jpg)
 
-# bangbang93HUB
+# bangbang93HUB 
 > [!WARNING]
 > 本存储库可能含有 NSFW (Not Safe For Work) 的言论<br>
 ~~例如：[8Mi_Yile](./8Mi_Yile) 的言论就挺NSFW的~~
