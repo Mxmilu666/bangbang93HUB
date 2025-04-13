@@ -1,4 +1,4 @@
-![blhx-style-logo](./.github/blhx-style-logo-new.jpg)
+![blhx-style-logo](./.github/bluearchive-logo.jpg)
 
 # bangbang93HUB 
 > [!WARNING]
