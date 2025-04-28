@@ -31,9 +31,6 @@
 ### 图片 API
 #### 随机图片 API
 - 可以方便，快速的查看本仓库的图片
-```
-目前全部寄了
-``` -->
 
 ## 仓库第三方镜像
 ```
@@ -45,7 +42,8 @@ https://cdn.jsdelivr.net/gh/Mxmilu666/bangbang93HUB/
 ```
 https://saltwood.top:9393/files/bangbang93Hub/文件名
 ```
-
+目前全部寄了
+``` -->
 ## 特别鸣谢
 此项目由 [suwingsHUB](https://github.com/liyxii/suwingsHUB) 启发创建
 
